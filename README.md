@@ -1,16 +1,15 @@
 ## Population Distribution and Planning Strategy in Beijing Based on Signaling Data
-<img width="635" alt="截屏2025-02-07 11 04 37" src="https://github.com/user-attachments/assets/e50c77ef-f0ee-446e-88bb-186a1c7494b9" />
+<img width="800" alt="截屏2025-02-07 11 04 37" src="https://github.com/user-attachments/assets/e50c77ef-f0ee-446e-88bb-186a1c7494b9" />
 
-![image](https://github.com/user-attachments/assets/68f4e52a-9da1-43aa-ab46-26435310b271)
 
-![image](https://github.com/user-attachments/assets/d8e92b8d-99c5-4c2d-8ffb-d7e0f7d80ab2)
-![image](https://github.com/user-attachments/assets/966edde1-0f74-4e25-acd6-f3971f457d44)
-![image](https://github.com/user-attachments/assets/40fe7710-3a94-4dd0-9b84-0871ee7ca1bf)
-![image](https://github.com/user-attachments/assets/bc586c57-48e9-4f85-bed0-8a20539e9fcc)
-![image](https://github.com/user-attachments/assets/bffd67d2-cd74-4ebf-80a4-52a16e4ed8f1)
-![image](https://github.com/user-attachments/assets/a04a1e0d-125b-4087-a0ea-e6af6ab68b0f)
-![image](https://github.com/user-attachments/assets/8566e57e-5180-42a3-981d-1b1155553c75)
-![image](https://github.com/user-attachments/assets/4496169b-52a9-48ca-ae31-e147e80ba3d5)
+<img src="https://github.com/user-attachments/assets/d8e92b8d-99c5-4c2d-8ffb-d7e0f7d80ab2" width="400" />
+<img src="https://github.com/user-attachments/assets/966edde1-0f74-4e25-acd6-f3971f457d44" width="400" />
+
+<img src="https://github.com/user-attachments/assets/40fe7710-3a94-4dd0-9b84-0871ee7ca1bf" width="400" />
+<img src="https://github.com/user-attachments/assets/bc586c57-48e9-4f85-bed0-8a20539e9fcc" width="400" />
+
+
+
 
 
 ### Description:
@@ -37,4 +36,8 @@ Finally, I provided recommendations based on Beijing's historical population dat
 	• Clustering Algorithms, Spatial Analysis, Data Visualization
 	• Urban Planning Insights, Machine Learning Model Development
 	• Report Writing, Data-driven Decision Making
- 
+![image](https://github.com/user-attachments/assets/bffd67d2-cd74-4ebf-80a4-52a16e4ed8f1)
+![image](https://github.com/user-attachments/assets/a04a1e0d-125b-4087-a0ea-e6af6ab68b0f)
+![image](https://github.com/user-attachments/assets/8566e57e-5180-42a3-981d-1b1155553c75)
+![image](https://github.com/user-attachments/assets/4496169b-52a9-48ca-ae31-e147e80ba3d5)
+![image](https://github.com/user-attachments/assets/68f4e52a-9da1-43aa-ab46-26435310b271) 
